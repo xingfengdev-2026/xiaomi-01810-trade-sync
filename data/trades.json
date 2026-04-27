@@ -4,242 +4,252 @@
     "action": "BUY",
     "qty": 1800,
     "price_hkd": 34.7,
-    "fee_hkd": 0,
-    "cost_change_hkd": 62460,
+    "fee_hkd": 15.0,
+    "cost_change_hkd": 62475.0,
     "position_shares": 1800,
-    "total_cost_hkd": 62460,
-    "avg_cost_hkd": 34.7,
-    "note": "initial position"
+    "total_cost_hkd": 62475.0,
+    "avg_cost_hkd": 34.7083333333
   },
   {
     "seq": 2,
     "action": "SELL",
     "qty": 200,
     "price_hkd": 35.2,
-    "fee_hkd": 15,
-    "cost_change_hkd": -7025,
+    "fee_hkd": 15.0,
+    "cost_change_hkd": -7025.0,
     "position_shares": 1600,
-    "total_cost_hkd": 55435,
-    "avg_cost_hkd": 34.646875
+    "total_cost_hkd": 55450.0,
+    "avg_cost_hkd": 34.65625
   },
   {
     "seq": 3,
     "action": "SELL",
     "qty": 200,
     "price_hkd": 36.0,
-    "fee_hkd": 15,
-    "cost_change_hkd": -7185,
+    "fee_hkd": 15.0,
+    "cost_change_hkd": -7185.0,
     "position_shares": 1400,
-    "total_cost_hkd": 48250,
-    "avg_cost_hkd": 34.4642857143
+    "total_cost_hkd": 48265.0,
+    "avg_cost_hkd": 34.475
   },
   {
     "seq": 4,
     "action": "SELL",
     "qty": 200,
     "price_hkd": 36.6,
-    "fee_hkd": 15,
-    "cost_change_hkd": -7305,
+    "fee_hkd": 15.0,
+    "cost_change_hkd": -7305.0,
     "position_shares": 1200,
-    "total_cost_hkd": 40945,
-    "avg_cost_hkd": 34.1208333333
+    "total_cost_hkd": 40960.0,
+    "avg_cost_hkd": 34.1333333333
   },
   {
     "seq": 5,
     "action": "BUY",
     "qty": 200,
     "price_hkd": 35.0,
-    "fee_hkd": 15,
-    "cost_change_hkd": 7015,
+    "fee_hkd": 15.0,
+    "cost_change_hkd": 7015.0,
     "position_shares": 1400,
-    "total_cost_hkd": 47960,
-    "avg_cost_hkd": 34.2571428571
+    "total_cost_hkd": 47975.0,
+    "avg_cost_hkd": 34.2678571429
   },
   {
     "seq": 6,
     "action": "SELL",
     "qty": 200,
     "price_hkd": 36.5,
-    "fee_hkd": 15,
-    "cost_change_hkd": -7285,
+    "fee_hkd": 15.0,
+    "cost_change_hkd": -7285.0,
     "position_shares": 1200,
-    "total_cost_hkd": 40675,
-    "avg_cost_hkd": 33.8958333333
+    "total_cost_hkd": 40690.0,
+    "avg_cost_hkd": 33.9083333333
   },
   {
     "seq": 7,
     "action": "SELL",
     "qty": 200,
     "price_hkd": 36.8,
-    "fee_hkd": 15,
-    "cost_change_hkd": -7345,
+    "fee_hkd": 15.0,
+    "cost_change_hkd": -7345.0,
     "position_shares": 1000,
-    "total_cost_hkd": 33330,
-    "avg_cost_hkd": 33.33
+    "total_cost_hkd": 33345.0,
+    "avg_cost_hkd": 33.345
   },
   {
     "seq": 8,
     "action": "SELL",
     "qty": 200,
     "price_hkd": 37.1,
-    "fee_hkd": 15,
-    "cost_change_hkd": -7405,
+    "fee_hkd": 15.0,
+    "cost_change_hkd": -7405.0,
     "position_shares": 800,
-    "total_cost_hkd": 25925,
-    "avg_cost_hkd": 32.40625
+    "total_cost_hkd": 25940.0,
+    "avg_cost_hkd": 32.425
   },
   {
     "seq": 9,
     "action": "BUY",
     "qty": 200,
     "price_hkd": 32.22,
-    "fee_hkd": 15,
-    "cost_change_hkd": 6459,
+    "fee_hkd": 15.0,
+    "cost_change_hkd": 6459.0,
     "position_shares": 1000,
-    "total_cost_hkd": 32384,
-    "avg_cost_hkd": 32.384
+    "total_cost_hkd": 32399.0,
+    "avg_cost_hkd": 32.399
   },
   {
     "seq": 10,
     "action": "SELL",
     "qty": 200,
     "price_hkd": 33.08,
-    "fee_hkd": 15,
-    "cost_change_hkd": -6601,
+    "fee_hkd": 15.0,
+    "cost_change_hkd": -6601.0,
     "position_shares": 800,
-    "total_cost_hkd": 25783,
-    "avg_cost_hkd": 32.22875
+    "total_cost_hkd": 25798.0,
+    "avg_cost_hkd": 32.2475
   },
   {
     "seq": 11,
     "action": "SELL",
     "qty": 200,
     "price_hkd": 33.2,
-    "fee_hkd": 15,
-    "cost_change_hkd": -6625,
+    "fee_hkd": 15.0,
+    "cost_change_hkd": -6625.0,
     "position_shares": 600,
-    "total_cost_hkd": 19158,
-    "avg_cost_hkd": 31.93
+    "total_cost_hkd": 19173.0,
+    "avg_cost_hkd": 31.955
   },
   {
     "seq": 12,
     "action": "BUY",
     "qty": 200,
     "price_hkd": 32.26,
-    "fee_hkd": 15,
-    "cost_change_hkd": 6467,
+    "fee_hkd": 15.0,
+    "cost_change_hkd": 6467.0,
     "position_shares": 800,
-    "total_cost_hkd": 25625,
-    "avg_cost_hkd": 32.03125
+    "total_cost_hkd": 25640.0,
+    "avg_cost_hkd": 32.05
   },
   {
     "seq": 13,
     "action": "BUY",
     "qty": 200,
     "price_hkd": 31.74,
-    "fee_hkd": 15,
-    "cost_change_hkd": 6363,
+    "fee_hkd": 15.0,
+    "cost_change_hkd": 6363.0,
     "position_shares": 1000,
-    "total_cost_hkd": 31988,
-    "avg_cost_hkd": 31.988
+    "total_cost_hkd": 32003.0,
+    "avg_cost_hkd": 32.003
   },
   {
     "seq": 14,
     "action": "BUY",
     "qty": 200,
     "price_hkd": 31.64,
-    "fee_hkd": 15,
-    "cost_change_hkd": 6343,
+    "fee_hkd": 15.0,
+    "cost_change_hkd": 6343.0,
     "position_shares": 1200,
-    "total_cost_hkd": 38331,
-    "avg_cost_hkd": 31.9425
+    "total_cost_hkd": 38346.0,
+    "avg_cost_hkd": 31.955
   },
   {
     "seq": 15,
     "action": "BUY",
     "qty": 200,
     "price_hkd": 30.76,
-    "fee_hkd": 15,
-    "cost_change_hkd": 6167,
+    "fee_hkd": 15.0,
+    "cost_change_hkd": 6167.0,
     "position_shares": 1400,
-    "total_cost_hkd": 44498,
-    "avg_cost_hkd": 31.7842857143
+    "total_cost_hkd": 44513.0,
+    "avg_cost_hkd": 31.795
   },
   {
     "seq": 16,
     "action": "SELL",
     "qty": 200,
     "price_hkd": 32.1,
-    "fee_hkd": 15,
-    "cost_change_hkd": -6405,
+    "fee_hkd": 15.0,
+    "cost_change_hkd": -6405.0,
     "position_shares": 1200,
-    "total_cost_hkd": 38093,
-    "avg_cost_hkd": 31.7441666667
+    "total_cost_hkd": 38108.0,
+    "avg_cost_hkd": 31.7566666667
   },
   {
     "seq": 17,
     "action": "SELL",
     "qty": 200,
     "price_hkd": 32.6,
-    "fee_hkd": 15,
-    "cost_change_hkd": -6505,
+    "fee_hkd": 15.0,
+    "cost_change_hkd": -6505.0,
     "position_shares": 1000,
-    "total_cost_hkd": 31588,
-    "avg_cost_hkd": 31.588
+    "total_cost_hkd": 31603.0,
+    "avg_cost_hkd": 31.603
   },
   {
     "seq": 18,
     "action": "SELL",
     "qty": 400,
     "price_hkd": 31.9,
-    "fee_hkd": 15,
-    "cost_change_hkd": -12745,
+    "fee_hkd": 15.0,
+    "cost_change_hkd": -12745.0,
     "position_shares": 600,
-    "total_cost_hkd": 18843,
-    "avg_cost_hkd": 31.405
+    "total_cost_hkd": 18858.0,
+    "avg_cost_hkd": 31.43
   },
   {
     "seq": 19,
     "action": "BUY",
     "qty": 200,
-    "price_hkd": 31.52,
-    "fee_hkd": 15,
-    "cost_change_hkd": 6319,
+    "price_hkd": 31.4,
+    "fee_hkd": 15.0,
+    "cost_change_hkd": 6295.0,
     "position_shares": 800,
-    "total_cost_hkd": 25138,
-    "avg_cost_hkd": 31.4225
+    "total_cost_hkd": 25153.0,
+    "avg_cost_hkd": 31.44125
   },
   {
     "seq": 20,
     "action": "BUY",
-    "qty": 400,
-    "price_hkd": 31.4,
-    "fee_hkd": 15,
-    "cost_change_hkd": 12575,
-    "position_shares": 1200,
-    "total_cost_hkd": 37713,
-    "avg_cost_hkd": 31.4275
+    "qty": 200,
+    "price_hkd": 31.52,
+    "fee_hkd": 15.0,
+    "cost_change_hkd": 6319.0,
+    "position_shares": 1000,
+    "total_cost_hkd": 31472.0,
+    "avg_cost_hkd": 31.472
   },
   {
     "seq": 21,
     "action": "BUY",
-    "qty": 200,
-    "price_hkd": 31.0,
-    "fee_hkd": 15,
-    "cost_change_hkd": 6215,
+    "qty": 400,
+    "price_hkd": 31.4,
+    "fee_hkd": 15.0,
+    "cost_change_hkd": 12575.0,
     "position_shares": 1400,
-    "total_cost_hkd": 43928,
-    "avg_cost_hkd": 31.3771428571
+    "total_cost_hkd": 44047.0,
+    "avg_cost_hkd": 31.4621428571
   },
   {
     "seq": 22,
     "action": "BUY",
     "qty": 200,
-    "price_hkd": 30.8,
-    "fee_hkd": 15,
-    "cost_change_hkd": 6175,
+    "price_hkd": 31.0,
+    "fee_hkd": 15.0,
+    "cost_change_hkd": 6215.0,
     "position_shares": 1600,
-    "total_cost_hkd": 50103,
-    "avg_cost_hkd": 31.314375
+    "total_cost_hkd": 50262.0,
+    "avg_cost_hkd": 31.41375
+  },
+  {
+    "seq": 23,
+    "action": "BUY",
+    "qty": 200,
+    "price_hkd": 30.8,
+    "fee_hkd": 15.0,
+    "cost_change_hkd": 6175.0,
+    "position_shares": 1800,
+    "total_cost_hkd": 56437.0,
+    "avg_cost_hkd": 31.3538888889
   }
 ]
