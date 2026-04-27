@@ -1,0 +1,8 @@
+{
+  "symbol": "01810.HK",
+  "name": "Xiaomi Group",
+  "currency": "HKD",
+  "default_fee_hkd": 15,
+  "lot_size": 200
+}
+
