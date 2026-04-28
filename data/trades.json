@@ -5,10 +5,10 @@
     "qty": 1800,
     "price_hkd": 34.7,
     "fee_hkd": 15.0,
-    "cost_change_hkd": 62475.0,
+    "cost_change_hkd": 62475.00000000001,
     "position_shares": 1800,
-    "total_cost_hkd": 62475.0,
-    "avg_cost_hkd": 34.7083333333
+    "total_cost_hkd": 62475.00000000001,
+    "avg_cost_hkd": 34.708333333333336
   },
   {
     "seq": 2,
@@ -16,10 +16,10 @@
     "qty": 200,
     "price_hkd": 35.2,
     "fee_hkd": 15.0,
-    "cost_change_hkd": -7025.0,
+    "cost_change_hkd": -7025.000000000001,
     "position_shares": 1600,
-    "total_cost_hkd": 55450.0,
-    "avg_cost_hkd": 34.65625
+    "total_cost_hkd": 55450.00000000001,
+    "avg_cost_hkd": 34.65625000000001
   },
   {
     "seq": 3,
@@ -29,8 +29,8 @@
     "fee_hkd": 15.0,
     "cost_change_hkd": -7185.0,
     "position_shares": 1400,
-    "total_cost_hkd": 48265.0,
-    "avg_cost_hkd": 34.475
+    "total_cost_hkd": 48265.00000000001,
+    "avg_cost_hkd": 34.47500000000001
   },
   {
     "seq": 4,
@@ -40,8 +40,8 @@
     "fee_hkd": 15.0,
     "cost_change_hkd": -7305.0,
     "position_shares": 1200,
-    "total_cost_hkd": 40960.0,
-    "avg_cost_hkd": 34.1333333333
+    "total_cost_hkd": 40960.00000000001,
+    "avg_cost_hkd": 34.13333333333334
   },
   {
     "seq": 5,
@@ -51,8 +51,8 @@
     "fee_hkd": 15.0,
     "cost_change_hkd": 7015.0,
     "position_shares": 1400,
-    "total_cost_hkd": 47975.0,
-    "avg_cost_hkd": 34.2678571429
+    "total_cost_hkd": 47975.00000000001,
+    "avg_cost_hkd": 34.267857142857146
   },
   {
     "seq": 6,
@@ -62,8 +62,8 @@
     "fee_hkd": 15.0,
     "cost_change_hkd": -7285.0,
     "position_shares": 1200,
-    "total_cost_hkd": 40690.0,
-    "avg_cost_hkd": 33.9083333333
+    "total_cost_hkd": 40690.00000000001,
+    "avg_cost_hkd": 33.90833333333334
   },
   {
     "seq": 7,
@@ -71,10 +71,10 @@
     "qty": 200,
     "price_hkd": 36.8,
     "fee_hkd": 15.0,
-    "cost_change_hkd": -7345.0,
+    "cost_change_hkd": -7344.999999999999,
     "position_shares": 1000,
-    "total_cost_hkd": 33345.0,
-    "avg_cost_hkd": 33.345
+    "total_cost_hkd": 33345.00000000001,
+    "avg_cost_hkd": 33.345000000000006
   },
   {
     "seq": 8,
@@ -84,8 +84,8 @@
     "fee_hkd": 15.0,
     "cost_change_hkd": -7405.0,
     "position_shares": 800,
-    "total_cost_hkd": 25940.0,
-    "avg_cost_hkd": 32.425
+    "total_cost_hkd": 25940.000000000007,
+    "avg_cost_hkd": 32.42500000000001
   },
   {
     "seq": 9,
@@ -95,8 +95,8 @@
     "fee_hkd": 15.0,
     "cost_change_hkd": 6459.0,
     "position_shares": 1000,
-    "total_cost_hkd": 32399.0,
-    "avg_cost_hkd": 32.399
+    "total_cost_hkd": 32399.000000000007,
+    "avg_cost_hkd": 32.39900000000001
   },
   {
     "seq": 10,
@@ -106,8 +106,8 @@
     "fee_hkd": 15.0,
     "cost_change_hkd": -6601.0,
     "position_shares": 800,
-    "total_cost_hkd": 25798.0,
-    "avg_cost_hkd": 32.2475
+    "total_cost_hkd": 25798.000000000007,
+    "avg_cost_hkd": 32.24750000000001
   },
   {
     "seq": 11,
@@ -115,10 +115,10 @@
     "qty": 200,
     "price_hkd": 33.2,
     "fee_hkd": 15.0,
-    "cost_change_hkd": -6625.0,
+    "cost_change_hkd": -6625.000000000001,
     "position_shares": 600,
-    "total_cost_hkd": 19173.0,
-    "avg_cost_hkd": 31.955
+    "total_cost_hkd": 19173.000000000007,
+    "avg_cost_hkd": 31.955000000000013
   },
   {
     "seq": 12,
@@ -128,8 +128,8 @@
     "fee_hkd": 15.0,
     "cost_change_hkd": 6467.0,
     "position_shares": 800,
-    "total_cost_hkd": 25640.0,
-    "avg_cost_hkd": 32.05
+    "total_cost_hkd": 25640.000000000007,
+    "avg_cost_hkd": 32.05000000000001
   },
   {
     "seq": 13,
@@ -139,8 +139,8 @@
     "fee_hkd": 15.0,
     "cost_change_hkd": 6363.0,
     "position_shares": 1000,
-    "total_cost_hkd": 32003.0,
-    "avg_cost_hkd": 32.003
+    "total_cost_hkd": 32003.000000000007,
+    "avg_cost_hkd": 32.00300000000001
   },
   {
     "seq": 14,
@@ -150,8 +150,8 @@
     "fee_hkd": 15.0,
     "cost_change_hkd": 6343.0,
     "position_shares": 1200,
-    "total_cost_hkd": 38346.0,
-    "avg_cost_hkd": 31.955
+    "total_cost_hkd": 38346.00000000001,
+    "avg_cost_hkd": 31.955000000000005
   },
   {
     "seq": 15,
@@ -161,8 +161,8 @@
     "fee_hkd": 15.0,
     "cost_change_hkd": 6167.0,
     "position_shares": 1400,
-    "total_cost_hkd": 44513.0,
-    "avg_cost_hkd": 31.795
+    "total_cost_hkd": 44513.00000000001,
+    "avg_cost_hkd": 31.795000000000005
   },
   {
     "seq": 16,
@@ -172,8 +172,8 @@
     "fee_hkd": 15.0,
     "cost_change_hkd": -6405.0,
     "position_shares": 1200,
-    "total_cost_hkd": 38108.0,
-    "avg_cost_hkd": 31.7566666667
+    "total_cost_hkd": 38108.00000000001,
+    "avg_cost_hkd": 31.75666666666667
   },
   {
     "seq": 17,
@@ -183,8 +183,8 @@
     "fee_hkd": 15.0,
     "cost_change_hkd": -6505.0,
     "position_shares": 1000,
-    "total_cost_hkd": 31603.0,
-    "avg_cost_hkd": 31.603
+    "total_cost_hkd": 31603.000000000007,
+    "avg_cost_hkd": 31.60300000000001
   },
   {
     "seq": 18,
@@ -194,8 +194,8 @@
     "fee_hkd": 15.0,
     "cost_change_hkd": -12745.0,
     "position_shares": 600,
-    "total_cost_hkd": 18858.0,
-    "avg_cost_hkd": 31.43
+    "total_cost_hkd": 18858.000000000007,
+    "avg_cost_hkd": 31.43000000000001
   },
   {
     "seq": 19,
@@ -205,8 +205,8 @@
     "fee_hkd": 15.0,
     "cost_change_hkd": 6295.0,
     "position_shares": 800,
-    "total_cost_hkd": 25153.0,
-    "avg_cost_hkd": 31.44125
+    "total_cost_hkd": 25153.000000000007,
+    "avg_cost_hkd": 31.44125000000001
   },
   {
     "seq": 20,
@@ -216,8 +216,8 @@
     "fee_hkd": 15.0,
     "cost_change_hkd": 6319.0,
     "position_shares": 1000,
-    "total_cost_hkd": 31472.0,
-    "avg_cost_hkd": 31.472
+    "total_cost_hkd": 31472.000000000007,
+    "avg_cost_hkd": 31.47200000000001
   },
   {
     "seq": 21,
@@ -227,8 +227,8 @@
     "fee_hkd": 15.0,
     "cost_change_hkd": 12575.0,
     "position_shares": 1400,
-    "total_cost_hkd": 44047.0,
-    "avg_cost_hkd": 31.4621428571
+    "total_cost_hkd": 44047.00000000001,
+    "avg_cost_hkd": 31.46214285714286
   },
   {
     "seq": 22,
@@ -238,8 +238,8 @@
     "fee_hkd": 15.0,
     "cost_change_hkd": 6215.0,
     "position_shares": 1600,
-    "total_cost_hkd": 50262.0,
-    "avg_cost_hkd": 31.41375
+    "total_cost_hkd": 50262.00000000001,
+    "avg_cost_hkd": 31.413750000000004
   },
   {
     "seq": 23,
@@ -249,8 +249,8 @@
     "fee_hkd": 15.0,
     "cost_change_hkd": 6175.0,
     "position_shares": 1800,
-    "total_cost_hkd": 56437.0,
-    "avg_cost_hkd": 31.3538888889
+    "total_cost_hkd": 56437.00000000001,
+    "avg_cost_hkd": 31.353888888888893
   },
   {
     "seq": 24,
@@ -266,14 +266,14 @@
   },
   {
     "seq": 25,
-    "action": "SELL",
+    "action": "BUY",
     "qty": 200,
     "price_hkd": 30.1,
     "fee_hkd": 15.0,
-    "cost_change_hkd": -6005.0,
-    "position_shares": 2000,
-    "total_cost_hkd": 62727.0,
-    "avg_cost_hkd": 31.3635,
+    "cost_change_hkd": 6035.0,
+    "position_shares": 2400,
+    "total_cost_hkd": 74767.0,
+    "avg_cost_hkd": 31.152916666666666,
     "timestamp": "2026-04-28T13:48:04.591849"
   }
 ]
