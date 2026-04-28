@@ -251,5 +251,17 @@
     "position_shares": 1800,
     "total_cost_hkd": 56437.0,
     "avg_cost_hkd": 31.3538888889
+  },
+  {
+    "seq": 24,
+    "action": "BUY",
+    "qty": 400,
+    "price_hkd": 30.7,
+    "fee_hkd": 15.0,
+    "cost_change_hkd": 12295.0,
+    "position_shares": 2200,
+    "total_cost_hkd": 68732.0,
+    "avg_cost_hkd": 31.241818181818182,
+    "timestamp": "2026-04-28T09:42:42.273888"
   }
 ]
