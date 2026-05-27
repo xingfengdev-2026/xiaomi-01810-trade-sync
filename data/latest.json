@@ -1,11 +1,11 @@
 {
   "symbol": "01810.HK",
-  "as_of": "2026-05-20T10:01:54.562573",
-  "position_shares": 1000,
-  "total_cost_hkd": 29309.0,
-  "avg_cost_hkd": 29.31,
-  "last_seq": 30,
+  "as_of": "2026-05-27T14:28:34.885215",
+  "position_shares": 2000,
+  "total_cost_hkd": 58329.0,
+  "avg_cost_hkd": 29.16,
+  "last_seq": 31,
   "last_action": "BUY",
-  "last_qty": 800,
-  "last_price_hkd": 30.0
+  "last_qty": 1000,
+  "last_price_hkd": 28.96
 }
