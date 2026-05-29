@@ -347,5 +347,17 @@
     "total_cost_hkd": 58329.0,
     "avg_cost_hkd": 29.16,
     "timestamp": "2026-05-27T14:28:34.885215"
+  },
+  {
+    "seq": 32,
+    "action": "BUY",
+    "qty": 1000,
+    "price_hkd": 27.76,
+    "fee_hkd": 75.0,
+    "cost_change_hkd": 27835.0,
+    "position_shares": 3000,
+    "total_cost_hkd": 86164.0,
+    "avg_cost_hkd": 28.72,
+    "timestamp": "2026-05-29T11:19:08.405789"
   }
 ]
